@@ -16,3 +16,5 @@ Szilágyi, A.; Kovács, V.P.; Czárán, T.; Szathmáry, E. (2022) Evolutionary e
 Note: The code available from this repository is provided without any warranty or liability.
 
 ELBA_model.tar.gz contains the full source code, ELBA_model_no_animation.tar.gz contains the source code without the animation routine.
+
+To build the program under linux or any compatible system using the GCC toolchain, issue the command make in the source directory.
