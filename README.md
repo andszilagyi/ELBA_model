@@ -14,3 +14,5 @@ András Szilágyi<sup>1,2,3</sup>; Viktor P. Kovács<sup>1</sup>; Tamás Czárá
 Szilágyi, A.; Kovács, V.P.; Czárán, T.; Szathmáry, E. (2022) Evolutionary ecology of language origins through confrontational scavenging (*under review in Philosophical Transactions of the Royal Society B*, URL will be insterted)
 
 Note: The code available from this repository is provided without any warranty or liability.
+
+ELBA_model.tar.gz contains the full source code, ELBA_model_no_animation.tar.gz contains the source code without the animation routine.
