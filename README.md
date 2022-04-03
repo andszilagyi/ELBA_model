@@ -17,4 +17,4 @@ Note: The code available from this repository is provided without any warranty o
 
 ELBA_model.tar.gz contains the full source code, ELBA_model_no_animation.tar.gz contains the source code without the animation routine.
 
-To build the program under linux or any compatible system using the GCC toolchain, issue the command make in the source directory.
+To build the program under linux or any compatible system using the GCC toolchain, issue the command `make` in the source directory.
